@@ -150,6 +150,7 @@ header{
     height: 474px;
     background: #FFFFFF;
     box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+    padding: 15px;
 
 }
 .player-details:hover{
@@ -314,6 +315,11 @@ header{
         
         grid-template-columns: repeat(1, 1fr);
         
+        
+    }
+    .player-img img{
+        width: 300px;
+        height: 256px;
         
     }
 
