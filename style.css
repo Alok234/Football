@@ -347,6 +347,7 @@ header{
     .highlight-img iframe{
         height: 200px;
         width: 330px;
+        padding-left: 6px;
     }
 
 
